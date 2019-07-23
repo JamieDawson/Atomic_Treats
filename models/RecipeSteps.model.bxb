@@ -1,0 +1,11 @@
+structure (RecipeSteps) {
+  description (Data for pill details)
+  property (key) {
+    type (Key)
+    min (Required) max (One)
+  }
+  property (value) {
+    type (Value)
+    min (Required) max (One)
+  }
+}

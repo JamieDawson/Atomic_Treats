@@ -1,0 +1,25 @@
+capsule {
+  id (playground.atomic_treats)
+  version (2.0.1)
+  format(3)
+  runtime-flags {
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+    concepts-inherit-super-type-features
+  } 
+  store-sections {
+    section (FoodAndDrink)
+  }
+  targets {
+    target (bixby-mobile-en-US)
+  }
+  capsule-imports {
+    import (viv.core) {
+      as (core)
+    }
+    import (viv.image) {
+      as (image) version (2.12.5)
+    }
+  }
+}
+

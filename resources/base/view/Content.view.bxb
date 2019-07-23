@@ -1,0 +1,39 @@
+result-view {
+  match: Content (this)
+  render {    
+    layout {
+      section {
+        content {
+          if (exists(this)) {
+          single-line {
+            text {
+              value ("Ingredients")
+              style (Detail_L_Soft)
+            }
+          }
+          }
+          for-each (this.ingredients) {
+            as (this) {
+              paragraph {
+                value ("#{value(this)}")
+              }
+            }
+          }
+          divider
+          for-each (this.recipeSteps) {
+            as (this) {
+              paragraph {
+                value ("#{value(this.key)}")
+                style (Detail_L_Soft)
+              }
+              paragraph {
+                value ("#{value(this.value)}")
+              }
+              divider
+            }
+          }
+        }
+      }
+    } 
+  } 
+}

@@ -1,0 +1,5 @@
+train (t-afa8bsazhdznyhaz3w87whh1u) {
+  utterance ("[g:GetContent] (chocolate)[v:SearchTerm] cake in a microwave")
+  plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)
+  last-modified (1560387505297)
+}

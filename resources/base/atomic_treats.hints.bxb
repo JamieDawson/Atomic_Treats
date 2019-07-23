@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    utterance (Give me a recipe for chocolate cake in a microwave)
+    utterance (Can I have a vanilla cake recipe)
+    utterance (I want a keto friendly chocolate cake)
+  }
+}

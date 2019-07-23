@@ -1,0 +1,5 @@
+train (t-cu1ekkudsjyk672zqggj7iw12) {
+  utterance ("[g:GetContent] Give me a (keto)[v:SearchTerm] friendly chocolate cake")
+  plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)
+  last-modified (1560562459894)
+}

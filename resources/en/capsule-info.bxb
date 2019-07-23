@@ -1,0 +1,22 @@
+// resources/en/capsule-info.bxb
+capsule-info {
+  display-name (Atomic Treats)
+  description (Want a quick dessert but don't want to deal with an oven? Use Atomic Treats to learn how to make easy desserts in your microwave. Recipes include: Birthday theamed chocolate cake, regular chocolate cake, vanilla cake, red velvet cake, and a keto friendly chocolate cake!)
+ // privacy-policy-url () //not needed
+  //terms-url () //not needed
+  search-keywords {
+    keyword (microwave)
+    keyword (chocolate)
+    keyword (vanilla)
+    keyword (treats)
+    keyword (dessert)
+  }
+  dispatch-name (Atomic Treats)
+  dispatch-aliases {
+    alias (desserts for the microwave)
+  }
+  action-bg-color (#FFC50A)
+  action-fg-color (#443D32)
+  developer-name (Jamie Dawson)
+  icon-asset (/icons/icon.png)
+}

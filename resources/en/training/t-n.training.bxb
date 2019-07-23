@@ -1,0 +1,15 @@
+train (t-n7gw64ndtgyg5nupyyegzizze) {
+  utterance ("[g:GetContent] I need a (red)[v:SearchTerm] velvet cake")
+  plan (Y2BmkE2tSMwtyEnVSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDALu2eWkJARXBqYlFyRkhqUS4DEwMjEDMASUYGEIDyAQ==)
+  last-modified (1561608404132)
+}
+train (t-n9hvrqaql7aztrzwpbtuezt64) {
+  utterance ("[g:GetContent]Please give me a (vanilla)[v:SearchTerm] cake receipe for my microwave")
+  plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)
+  last-modified (1560387491904)
+}
+train (t-nyjilalqov0awc4opx5ui4vv5) {
+  utterance ("[g:GetContent] Get me (chocolate)[v:SearchTerm] cake in a mug")
+  plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)
+  last-modified (1560386561857)
+}

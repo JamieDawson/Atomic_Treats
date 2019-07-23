@@ -1,0 +1,21 @@
+structure (Content) {
+  description (Output)
+  property (text) {
+    type (core.Text)
+    min (Optional) max (One)
+    visibility (Private)
+  }
+  property (image) {
+    type (image.Image)
+    min (Optional) max (One)
+    visibility (Private)
+  }
+  property (ingredients) {
+    type (Ingredients)
+    min (Required) max (Many)
+  }
+  property (recipeSteps) {
+    type (RecipeSteps)
+    min (Required) max (Many)
+  }
+}

@@ -1,0 +1,10 @@
+train (t-4lyx96ei00nvoxzrxf25u1tk0) {
+  utterance ("[g:GetContent] get me anything as long as it's (chocolate)[v:SearchTerm]")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
+  last-modified (1563845552267)
+}
+train (t-4wxy4u4byhtq7e85elplqbp4z) {
+  utterance ("[g:GetContent] Give me a recipe for  (chocolate)[v:SearchTerm] cake in a microwave")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
+  last-modified (1563843635867)
+}

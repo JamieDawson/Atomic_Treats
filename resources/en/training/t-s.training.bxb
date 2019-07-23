@@ -1,0 +1,5 @@
+train (t-s2cbhm5w5o6dtyhqqq8xu4xc0) {
+  utterance ("[g:GetContent] i just want something that is (chocolate)[v:SearchTerm]")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
+  last-modified (1563845097191)
+}

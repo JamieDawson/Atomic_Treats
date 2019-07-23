@@ -1,0 +1,5 @@
+train (t-qod87moxcsz8kqg6nlehznckx) {
+  utterance ("[g:GetContent] give me a (keto)[v:SearchTerm] idea")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
+  last-modified (1563844595212)
+}

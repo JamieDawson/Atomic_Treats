@@ -20,6 +20,14 @@ result-view {
             }
           }
           divider
+             if (exists(this)) {
+         single-line {
+            text {
+              value ("Instructions:")
+              style (Detail_L_Soft)
+            }
+          }
+          }
           for-each (this.recipeSteps) {
             as (this) {
               paragraph {
@@ -29,7 +37,7 @@ result-view {
               paragraph {
                 value ("#{value(this.value)}")
               }
-              divider
+             divider
             }
           }
         }

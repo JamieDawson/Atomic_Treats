@@ -13,7 +13,7 @@ capsule-info {
   }
   dispatch-name (Atomic Treats)
   dispatch-aliases {
-    alias (desserts for the microwave)
+    alias (atomic treat)
   }
   action-bg-color (#FFC50A)
   action-fg-color (#443D32)

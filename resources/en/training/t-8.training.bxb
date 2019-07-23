@@ -3,3 +3,8 @@ train (t-87auybgsnqlliju64qcsxanci) {
   plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)
   last-modified (1560387428619)
 }
+train (t-89rw4hzf25cz6btrcrnobbecd) {
+  utterance ("[g:GetContent] what's that (velvet)[v:SearchTerm] thing")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
+  last-modified (1563844973952)
+}

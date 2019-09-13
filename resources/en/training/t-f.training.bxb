@@ -3,3 +3,8 @@ train (t-f4ijd0z335h3gq8meiluh8p4k) {
   plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
   last-modified (1563846120905)
 }
+train (t-fw5jlirdk1j1pqq2kepjepego) {
+  utterance ("[g:GetContent] show me (vanilla)[v:SearchTerm] cakes")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
+  last-modified (1568414625674)
+}

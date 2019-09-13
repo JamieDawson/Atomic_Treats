@@ -8,6 +8,11 @@ train (t-n9hvrqaql7aztrzwpbtuezt64) {
   plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)
   last-modified (1560387491904)
 }
+train (t-nafcv1r50hkan5ft8qofghmp9) {
+  utterance ("[g:Content] get me something made with (vanilla)[v:SearchTerm]")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIMAEwQA=)
+  last-modified (1568417513776)
+}
 train (t-nyjilalqov0awc4opx5ui4vv5) {
   utterance ("[g:GetContent] Get me (chocolate)[v:SearchTerm] cake in a mug")
   plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)

@@ -3,3 +3,8 @@ train (t-hqc8hj9rb70b14eni8xdmts2g) {
   plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
   last-modified (1563844455421)
 }
+train (t-hwxfbf6fc2ly1x9n6j89eum1w) {
+  utterance ("[g:Content] show me a (vanilla)[v:SearchTerm] option ")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIMAEwQA=)
+  last-modified (1568417645129)
+}

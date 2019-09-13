@@ -1,3 +1,8 @@
+train (t-3f4v2d94pyptuwm7g6rjzau2i) {
+  utterance ("[g:Content] tell me what kind of (keto)[v:SearchTerm] options you have")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIMAEwQA=)
+  last-modified (1568418460030)
+}
 train (t-3mjbkacfggcvm6weqmescvt4s) {
   utterance ("[g:GetContent] give me the (velvet)[v:SearchTerm] recipe")
   plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)

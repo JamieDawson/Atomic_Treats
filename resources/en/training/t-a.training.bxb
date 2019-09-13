@@ -3,3 +3,8 @@ train (t-afa8bsazhdznyhaz3w87whh1u) {
   plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)
   last-modified (1560387505297)
 }
+train (t-api8wy1tx5vaaluuuh82ms6sr) {
+  utterance ("[g:Content] tell me about a (vanilla)[v:SearchTerm] recipe")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIMAEwQA=)
+  last-modified (1568418127783)
+}

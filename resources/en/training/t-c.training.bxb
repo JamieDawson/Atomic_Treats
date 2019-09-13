@@ -1,3 +1,8 @@
+train (t-c9zmpl0mcio54iu9s5zks3juy) {
+  utterance ("[g:Content] get a recipe i can make with (vanilla)[v:SearchTerm]")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIMAEwQA=)
+  last-modified (1568417465439)
+}
 train (t-cu1ekkudsjyk672zqggj7iw12) {
   utterance ("[g:GetContent] Give me a (keto)[v:SearchTerm] friendly chocolate cake")
   plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)

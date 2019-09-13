@@ -1,0 +1,5 @@
+train (t-y3kiop6tgor102wok50kq1hdn) {
+  utterance ("[g:GetContent] show me anything that has (vanilla)[v:SearchTerm]")
+  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
+  last-modified (1568414546626)
+}

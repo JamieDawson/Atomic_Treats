@@ -4,7 +4,7 @@ train (t-g0nmp9d55j0h68d9lgckxs434) {
   last-modified (1563844851818)
 }
 train (t-g0nytblw343b7xr4yoakwd70q) {
-  utterance ("[g:GetContent] get that red (dessert)[v:SearchTerm]")
+  utterance ("[g:GetContent] get that (red)[v:SearchTerm] dessert")
   plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
-  last-modified (1563846156735)
+  last-modified (1568414421258)
 }

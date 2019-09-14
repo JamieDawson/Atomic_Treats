@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    hint ("In Atomic Treats, Give me a recipe for chocolate cake in a microwave")
+    hint ("Ask Atomic Treats, Can I have a vanilla cake recipe")
+    hint ("With Atomic Treats, I want a keto friendly chocolate cake")
+  }
+}

@@ -1,5 +1,5 @@
 capsule {
-  id (playground.atomic_treats)
+  id (jamie_dawson.atomic_treats)
   version (1.1.0)
   format(3)
   runtime-flags {

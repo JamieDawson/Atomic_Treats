@@ -1,3 +1,8 @@
+train (t-4hb18ee1p7y5tocobkrvf0tw3) {
+  utterance ("[g:Content] give me (vanilla)[v:SearchTerm] recipes")
+  plan (Y2BmUMpKzM1MjU9JLC/Oz9NLLMnPzUyOLylKTSwp1nPOzytJzSthUMWjxj21hBhlwamJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1568495412251)
+}
 train (t-4lyx96ei00nvoxzrxf25u1tk0) {
   utterance ("[g:GetContent] get me anything as long as it's (chocolate)[v:SearchTerm]")
   plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)

@@ -1,8 +1,3 @@
-train (t-55pk86ex6t5y477chtdupghqp) {
-  utterance ([g:GetContent] I want something good)
-  plan (Y2BiUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tQSmiBEIGaAYSAIA)
-  last-modified (1563844871265)
-}
 train (t-5v5o88mptcg8blnl5l8kq04w1) {
   utterance ("[g:GetContent] Can I have a (vanilla)[v:SearchTerm] cake recipe")
   plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)

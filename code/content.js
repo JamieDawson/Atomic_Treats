@@ -1,7 +1,7 @@
 module.exports = [
   {
     text: "How to make a Vanilla Mug Cake",
-    tags: ["vanilla", "random"],
+    tags: ["vanilla"],
     ingredients: ["1/3 cup almond flour",
       "1/4 tablespoons Erythritol",
       "1/4 teaspoon baking powder",
@@ -28,7 +28,7 @@ module.exports = [
   },
   {
     text: "How to make a Red Velvet Cake",
-    tags: ["red", "velvet", "random"],
+    tags: ["red", "velvet"],
     ingredients: ["3 tablespoons heavy whipping cream",
       "1/2 teaspoon white vinegar",
       "4 tablespoons of almond flour",
@@ -56,7 +56,7 @@ module.exports = [
   },
   {
     text: "How to make a Chocolate Mug Cake",
-    tags: ["chocolate", "random"],
+    tags: ["chocolate"],
     ingredients: ["3 tablespoons of flour",
       "3 tablespoons of sugar",
       "3 tablespoons of milk",
@@ -87,7 +87,7 @@ module.exports = [
   },
   {
     text: "How to make a Keto Friendly Chocolate Mug Cake",
-    tags: ["keto", "random"],
+    tags: ["keto"],
     ingredients: ["3 Tbsp of Vanilla",
       "3 Tbsp Almond flour",
       "2 Tablespoons Erythritol",
@@ -118,7 +118,7 @@ module.exports = [
   },
   {
     text: "How to make a Chocolate Birthday Mug Cake",
-    tags: ["chocolate", "birthday", "random"],
+    tags: ["chocolate", "birthday"],
     ingredients: ["3 tablespoons of flour",
       "3 tablespoons of sugar",
       "3 tablespoons of milk",

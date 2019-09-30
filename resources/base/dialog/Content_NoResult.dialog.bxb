@@ -1,4 +1,4 @@
 dialog (NoResult) {
   match: Content
-  template("Nothing found")
+  template("Please request either Vanilla, Chocolate, or Red Velvet!")
 }

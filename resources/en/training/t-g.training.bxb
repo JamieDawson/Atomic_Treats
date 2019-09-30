@@ -8,3 +8,8 @@ train (t-g0nytblw343b7xr4yoakwd70q) {
   plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
   last-modified (1568414421258)
 }
+train (t-g6gx97v824ixpsqb9qmp2ut61) {
+  utterance ("[g:GetContent] receipt for (lemon)[v:SearchTerm] chicken")
+  plan (Y2BmUMpKzM1MjU9JLC/Oz9NLLMnPzUyOLylKTSwp1nPOzytJzSthUMWjxj21hBhlwamJRckZIalFuQxMDIxAzAAkGRlAAMoHAA==)
+  last-modified (1569879459710)
+}

@@ -1,8 +1,3 @@
-train (t-uknyak24rx5pmlxqghyx1wfw8) {
-  utterance ("[g:GetContent] something (random)[v:SearchTerm]")
-  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
-  last-modified (1563845601444)
-}
 train (t-uzixr2m0fkxgafssyj1s9vvf3) {
   utterance ("[g:GetContent] I want to see a (keto)[v:SearchTerm] recipe")
   plan (Y2BmEEmtSMwtyEnVS0tMLtFzzs8rSc0rYRBHEXVPLcEuEZyaWJScEZJalMvAxMAIxAxAkpEBBKB8AA==)

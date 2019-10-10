@@ -28,7 +28,7 @@ module.exports = [
   },
   {
     text: "How to make a Red Velvet Cake",
-    tags: ["red", "velvet"],
+    tags: ["red", "velvet", "red velvet"],
     ingredients: ["3 tablespoons heavy whipping cream",
       "1/2 teaspoon white vinegar",
       "4 tablespoons of almond flour",

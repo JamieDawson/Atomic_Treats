@@ -1,0 +1,5 @@
+train (t-d3jwic08xlpp2ltiajgksw79v) {
+  utterance ("[g:Content] show me stuff that is (red velvet)[v:SearchTerm] ")
+  plan (Y2BmUMpKzM1MjU9JLC/Oz9NLLMnPzUyOLylKTSwp1nPOzytJzSthUMWjxj21hBhlwamJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1570738935417)
+}

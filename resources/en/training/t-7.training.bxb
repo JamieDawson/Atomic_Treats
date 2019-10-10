@@ -3,3 +3,8 @@ train (t-75nhgvjvcnpbw4dgk4skt3fvf) {
   plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
   last-modified (1563845487772)
 }
+train (t-7m15bh3ygo6upj9csagp5vysh) {
+  utterance ("[g:Content] give me the (red velvet)[v:SearchTerm] recipe")
+  plan (Y2BmUMpKzM1MjU9JLC/Oz9NLLMnPzUyOLylKTSwp1nPOzytJzSthUMWjxj21hBhlwamJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1570738767402)
+}

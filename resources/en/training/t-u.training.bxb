@@ -1,3 +1,8 @@
+train (t-u4vwfzjexte9vgl6kbvc4kuoj) {
+  utterance ("[g:Content] get me anything (red velvet)[v:SearchTerm]")
+  plan (Y2BmUMpKzM1MjU9JLC/Oz9NLLMnPzUyOLylKTSwp1nPOzytJzSthUMWjxj21hBhlwamJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1570738977512)
+}
 train (t-uzixr2m0fkxgafssyj1s9vvf3) {
   utterance ("[g:GetContent] I want to see a (vanilla)[v:SearchTerm] recipe")
   plan (Y2BmUMpKzM1MjU9JLC/Oz9NLLMnPzUyOLylKTSwp1nPOzytJzSthUMWjxj21hBhlwamJRckZIalFuQxMDIxAzAAkGRlAAMoHAA==)

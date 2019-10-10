@@ -1,5 +1,5 @@
 train (t-ikocdgmzlut64lcfjcrlcgn6a) {
-  utterance ("[g:GetContent] I want something (keto)[v:SearchTerm]")
-  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIADlAwA=)
-  last-modified (1563844523692)
+  utterance ("[g:GetContent] I want something (vanilla)[v:SearchTerm]")
+  plan (Y2BmUMpKzM1MjU9JLC/Oz9NLLMnPzUyOLylKTSwp1nPOzytJzSthUMWjxj21hBhlwamJRckZIalFuQxMDIxAzAAkGRlAAMoHAA==)
+  last-modified (1570737210334)
 }

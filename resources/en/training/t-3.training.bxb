@@ -1,7 +1,7 @@
 train (t-3f4v2d94pyptuwm7g6rjzau2i) {
-  utterance ("[g:Content] tell me what kind of (keto)[v:SearchTerm] options you have")
-  plan (Y2BmUCjISaxML8ovzUvRSyzJz81Mji8pSk0sKdZzzs8rSc0rYVDGqcI9tYSwouDUxKLkjJDUolwGJgZGIGYAkowMIMAEwQA=)
-  last-modified (1568418460030)
+  utterance ("[g:Content] tell me what kind of (vanilla)[v:SearchTerm] options you have")
+  plan (Y2BmUMpKzM1MjU9JLC/Oz9NLLMnPzUyOLylKTSwp1nPOzytJzSthUMWjxj21hBhlwamJRckZIalFuQxMDIxAzAAkGRlAgAmCAQ==)
+  last-modified (1570737162591)
 }
 train (t-3mjbkacfggcvm6weqmescvt4s) {
   utterance ("[g:GetContent] give me the (velvet)[v:SearchTerm] recipe")

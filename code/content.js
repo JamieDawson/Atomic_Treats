@@ -87,7 +87,7 @@ module.exports = [
   },
   {
     text: "How to make a Keto Friendly Chocolate Mug Cake",
-    tags: ["keto"],
+    tags: ["chocolate"],
     ingredients: ["3 Tbsp of Vanilla",
       "3 Tbsp Almond flour",
       "2 Tablespoons Erythritol",
